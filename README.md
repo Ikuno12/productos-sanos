@@ -1,2 +1,9 @@
-# productos-sanos
- Aplicación de venta de productos sanos
+# cognitive_p
+
+# Paquetes requeridos:
+> pip3 install flask
+
+> pip install flask-login
+
+> pip install PyMySQL
+
